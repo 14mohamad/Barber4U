@@ -3,8 +3,4 @@ Barber4U project - initial test file.
 
 
 
-טעכטוכעט
-לךימלח
-גדכגדכגד גדהגדה
-Eitan was here.
-hiii
+hello hello
